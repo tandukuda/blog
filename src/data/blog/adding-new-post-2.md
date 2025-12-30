@@ -1,9 +1,9 @@
 ---
 author: tandukuda
-pubDatetime: 2025-12-31
-modDatetime: 2025-12-31
-title: Hi! It's my first post.
-slug: hi-its-my-first-post
+pubDatetime: 2025-12-30
+modDatetime: 2025-12-30
+title: Hi! It's my first post 3.
+slug: hi-its-my-first-post-3
 featured: false
 draft: false
 tags:
