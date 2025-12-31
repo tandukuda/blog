@@ -7,6 +7,7 @@ import IconWhatsapp from "@/assets/icons/IconWhatsapp.svg";
 import IconFacebook from "@/assets/icons/IconFacebook.svg";
 import IconTelegram from "@/assets/icons/IconTelegram.svg";
 import IconPinterest from "@/assets/icons/IconPinterest.svg";
+import IconHeart from "@/assets/icons/IconHeart.svg";
 import { SITE } from "@/config";
 
 interface Social {
@@ -40,6 +41,12 @@ export const SOCIALS: Social[] = [
     href: "mailto:hi@tandukuda.xyz",
     linkTitle: `Send an email to tandukuda`,
     icon: IconMail,
+  },
+  {
+    name: "Heart",
+    href: "https://ko-fi.com/tandukuda",
+    linkTitle: `Donation`,
+    icon: IconHeart,
   },
 ] as const;
 
