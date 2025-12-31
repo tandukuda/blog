@@ -9,8 +9,7 @@ draft: false
 tags:
   - blog
 description:
-  Some rules & recommendations for creating or adding new posts using AstroPaperr
-  theme.
+  Lorem ipsum is a long paragraph that can be used as a placeholder text in design drafts or web pages. It is commonly used to fill in the space of a text area or to demonstrate the layout of a design without the need for actual content.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia efficitur sagittis. Sed pharetra maximus turpis, ut tempor est. In scelerisque imperdiet malesuada. Aenean at sodales nisi, non fermentum turpis. Nullam et lobortis mauris, et suscipit ipsum. Vestibulum semper ultrices neque, tristique venenatis felis. Suspendisse est mauris, convallis sit amet pulvinar in, tincidunt at neque. Nulla tempor finibus justo aliquam tincidunt. Maecenas et mauris id mauris pretium aliquet. Maecenas scelerisque ultrices lacinia. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla facilisi. Donec molestie justo quis libero maximus, sit amet vulputate enim iaculis. Nam pulvinar magna eget massa dapibus, nec dignissim ligula sagittis.
